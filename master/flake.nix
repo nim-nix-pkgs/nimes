@@ -11,7 +11,6 @@
   inputs.src-nimes-master.ref   = "refs/heads/master";
   inputs.src-nimes-master.owner = "def-";
   inputs.src-nimes-master.repo  = "nimes";
-  inputs.src-nimes-master.dir   = "";
   inputs.src-nimes-master.type  = "github";
   
   inputs."sdl2".owner = "nim-nix-pkgs";
